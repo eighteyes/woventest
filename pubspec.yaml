@@ -1,0 +1,9 @@
+name: woventest
+description: A sample Polymer application
+dependencies:
+  http: any
+  http_server: any
+  polymer: any
+transformers:
+- polymer:
+    entry_points: web/woventest.html

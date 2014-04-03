@@ -1,0 +1,20 @@
+<polymer-element name="fb-query">
+  <template>
+    <style>
+      input {
+        font-size: 24pt;
+        text-align: center;
+        margin-top: 140px;
+      }
+      button {
+        font-size: 24pt;
+        margin-bottom: 20px;
+      }
+    </style>
+    <div>
+      <button on-click="{{ sendQuery }}">Query</button><br>
+      <div>(click count: {{ response }})</div>
+    </div>
+  </template>
+  <script type="application/dart" src="clickcounter.dart"></script>
+</polymer-element>

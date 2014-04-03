@@ -1,0 +1,351 @@
+---
+build.dart --machine --full
+
+build.dart finished [1095 ms]
+
+---
+build.dart --machine --changed=web/index.hmtl
+
+build.dart finished [1030 ms]
+
+---
+build.dart --machine --changed=web/index.html --removed=web/index.hmtl
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1070 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1024 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1020 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart --changed=web/index.html
+
+build.dart finished [1241 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1042 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1071 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1058 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1023 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1100 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1167 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1060 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1059 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1036 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1078 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1060 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1042 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1127 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1169 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1112 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1127 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1154 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1105 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1102 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1102 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1058 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1153 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1067 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1041 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1062 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1133 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1067 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1075 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1122 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1138 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1088 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1065 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1100 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1158 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1116 ms]
+
+---
+build.dart --machine --changed=server.dart
+
+build.dart finished [1062 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1103 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1092 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1090 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1083 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1083 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1187 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1055 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1071 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1049 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1062 ms]
+
+---
+build.dart --machine --changed=index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1062 ms]
+
+---
+build.dart --machine --changed=server.dart
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":19,"charStart":509,"charEnd":517}}]
+build.dart finished [1095 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":18,"charStart":498,"charEnd":506}}]
+build.dart finished [1102 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":18,"charStart":498,"charEnd":506}}]
+build.dart finished [1081 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":18,"charStart":498,"charEnd":506}}]
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected start tag (polymer-element). Expected end of file.","line":32,"charStart":655,"charEnd":707}}]
+[{"method":"warning","params":{"file":"web/index.html","message":"Only one \"application/dart\" script tag per document is allowed.","line":51,"charStart":1081,"charEnd":1137}}]
+build.dart finished [1092 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":18,"charStart":498,"charEnd":506}}]
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected start tag (polymer-element). Expected end of file.","line":34,"charStart":657,"charEnd":709}}]
+[{"method":"warning","params":{"file":"web/index.html","message":"Only one \"application/dart\" script tag per document is allowed.","line":53,"charStart":1083,"charEnd":1139}}]
+build.dart finished [1197 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":18,"charStart":498,"charEnd":506}}]
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected start tag (polymer-element). Expected end of file.","line":34,"charStart":657,"charEnd":709}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"duplicate definition for custom tag \"fb-query\".","line":2,"charStart":5,"charEnd":57}}]
+[{"method":"warning","params":{"file":"web/index.html","message":"duplicate definition for custom tag \"fb-query\"  (second definition).","line":34,"charStart":657,"charEnd":709}}]
+[{"method":"warning","params":{"file":"web/index.html","message":"Only one \"application/dart\" script tag per document is allowed.","line":53,"charStart":1083,"charEnd":1139}}]
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1171 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":18,"charStart":498,"charEnd":506}}]
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1076 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/index.html","message":"Unexpected end tag (input). Ignored.","line":18,"charStart":498,"charEnd":506}}]
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1091 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1186 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1070 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1113 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1093 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1284 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1086 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/woventest.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":21,"charStart":567,"charEnd":592}}]
+build.dart finished [1081 ms]
+
